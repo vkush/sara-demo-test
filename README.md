@@ -9,3 +9,6 @@ Das webbasierte Tool kann von mehreren Einrichtungen gemeinsam genutzt werden. E
 - Link zum Projekt: https://www.forschungsdaten.info/praxis-kompakt/aktuelle-infrastrukturprojekte/fdm/sara/
 - Link zur Demoversion: https://demo.sara-service.org/
 - Softwarelizenz: Open Source
+
+
+(test text)
